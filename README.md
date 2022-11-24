@@ -37,7 +37,9 @@
 
 
 
-      Flask_Blog:
+      Flask_Blog
+      This is a online platform where customers can register, login, post and edit their posts.
+      Technology: HTML, CSS, Python, MySQL
    Demo Video: https://www.youtube.com/watch?v=3xp9XGTPahQ&list=PLWHz3Jit5jysQJsAn55spDtzklgD1lEB1&index=1&t=7s
 
 

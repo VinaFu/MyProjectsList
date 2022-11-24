@@ -4,14 +4,13 @@
     Developed a “Connect Four game” site from front to backend using JavaScript, and HTML. 
     Enhanced user experience by creating site structure, navigation and page optimization 
     Technologies:HTML,CSS, JavaScript. 
-   1. Dice-Game: https://vinafu.github.io/Dice-Game/
-   2. Drum-kit: https://vinafu.github.io/Drum-Kit/
-   3. Memory Game: https://vinafu.github.io/7-2-Memory-Game/
-   4. Watch-a-mole Game: https://vinafu.github.io/7-3-Wach-a-mole/
-   5. Break-out Game:  https://vinafu.github.io/7-4-Breakout-Game/
-   6. Connect four Game: https://vinafu.github.io/7-6-Connect-Four-Game/
-   7. Frog Game: https://vinafu.github.io/7-5-Vina-s-frog-game/
-   8. Space Invader: https://vinafu.github.io/7-7-Space-Invaders/
+   1. Drum-kit: https://vinafu.github.io/Drum-Kit/
+   2. Memory Game: https://vinafu.github.io/7-2-Memory-Game/
+   3. Watch-a-mole Game: https://vinafu.github.io/7-3-Wach-a-mole/
+   4. Break-out Game:  https://vinafu.github.io/7-4-Breakout-Game/
+   5. Connect four Game: https://vinafu.github.io/7-6-Connect-Four-Game/
+   6. Frog Game: https://vinafu.github.io/7-5-Vina-s-frog-game/
+   7. Space Invader: https://vinafu.github.io/7-7-Space-Invaders/
 
 
 

@@ -4,7 +4,6 @@
     Developed a “Connect Four game” site from front to backend using JavaScript, and HTML. 
     Enhanced user experience by creating site structure, navigation and page optimization 
     Technologies:HTML,CSS, JavaScript. 
-    Games:
    1. Dice-Game: https://vinafu.github.io/Dice-Game/
    2. Drum-kit: https://vinafu.github.io/Drum-Kit/
    3. Memory Game: https://vinafu.github.io/7-2-Memory-Game/
@@ -18,7 +17,10 @@
 
 
     Front-end component libary 
-    Developed a frontend re-useable components library including Color Flipper, Counter Reviews Navbar Sidebar, Modal, Questions, Menu Video Scroll Tabs, Countdown Timer etc. Used Object Oriented Programming concepts to develop UI components that could be reused. Technologies: HTML, CSS, UI design (Figma).  
+    Developed a frontend re-useable components library including Color Flipper, 
+    Counter Reviews Navbar Sidebar, Modal, Questions, Menu Video Scroll Tabs, Countdown Timer etc. 
+    Used Object Oriented Programming concepts to develop UI components that could be reused. 
+    Technologies: HTML, CSS, UI design (Figma).  
    1. ColorFlipper: https://vinafu.github.io/15-1-Color-Flipper/
    2. Counter: https://vinafu.github.io/15-2-Counter/
    3. Reviews: https://vinafu.github.io/15-3-Reviews/

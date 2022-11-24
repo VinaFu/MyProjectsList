@@ -4,11 +4,8 @@
     Gaming site with Javascript 
     Developed a “Connect Four game” site from front to backend using JavaScript, and HTML. Enhanced user experience by creating site structure, navigation and page optimization Technologies:HTML,CSS, JavaScript. 
     Games:
-
     1. Dice-Game: https://vinafu.github.io/Dice-Game/
-    
-    2. Drum-kit: 
-        https://vinafu.github.io/Drum-Kit/
+    2. Drum-kit: https://vinafu.github.io/Drum-Kit/
     3. Memory Game: https://vinafu.github.io/7-2-Memory-Game/
     4. Watch-a-mole Game: https://vinafu.github.io/7-3-Wach-a-mole/
     5. Break-out Game:  https://vinafu.github.io/7-4-Breakout-Game/
@@ -37,6 +34,7 @@
     11. Countdown: https://vinafu.github.io/15-12-countdown/
     12. lorem-ipsum: https://vinafu.github.io/15-13-lorem-ipsum/
 
-
+    Flask_Blog:
+    Demo Video: https://www.youtube.com/watch?v=3xp9XGTPahQ&list=PLWHz3Jit5jysQJsAn55spDtzklgD1lEB1&index=1&t=7s
 
 

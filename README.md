@@ -13,6 +13,8 @@
    8. Space Invader: https://vinafu.github.io/7-7-Space-Invaders/
 
 
+
+
     Front-end component libary 
     Developed a frontend re-useable components library including Color Flipper, Counter Reviews Navbar Sidebar, Modal, Questions, Menu Video Scroll Tabs, Countdown Timer etc. Used Object Oriented Programming concepts to develop UI components that could be reused. Technologies: HTML, CSS, UI design (Figma).  
    1. ColorFlipper: https://vinafu.github.io/15-1-Color-Flipper/
@@ -27,6 +29,8 @@
    10. Tabs: https://vinafu.github.io/15-11-tabs/
    11. Countdown: https://vinafu.github.io/15-12-countdown/
    12. lorem-ipsum: https://vinafu.github.io/15-13-lorem-ipsum/
+
+
 
 
       Flask_Blog:

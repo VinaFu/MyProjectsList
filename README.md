@@ -1,7 +1,9 @@
 # MyProjectsList
 
     Gaming site with Javascript 
-    Developed a “Connect Four game” site from front to backend using JavaScript, and HTML. Enhanced user experience by creating site structure, navigation and page optimization Technologies:HTML,CSS, JavaScript. 
+    Developed a “Connect Four game” site from front to backend using JavaScript, and HTML. 
+    Enhanced user experience by creating site structure, navigation and page optimization 
+    Technologies:HTML,CSS, JavaScript. 
     Games:
    1. Dice-Game: https://vinafu.github.io/Dice-Game/
    2. Drum-kit: https://vinafu.github.io/Drum-Kit/
